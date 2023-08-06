@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head><title>experience</title>
+<meta charset="utf-8">
+<meta name="viewport" content="Website">
+</head>
+<body>
+<header>
+<a href="index.html">	
+<img src="lovemyself.png"alt="Hello it ME"title="ALIFAH ROSELAN" width="500">
+</a>
+</header>
+<hr>
+<nav>
+    <center>
+<table cellspacing="6" cellpadding="6">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="biodata.html">Biodata</a></td>
+<td><a href="experience.html">Experience</a></td>
+<td><a href="family.html">Family</a></td>
+<td><a href="gallery.html">Gallery</a></td>
+</tr>
+</nav>
+</table>
+</center>
+<style>
+body {
+  background-image: url('quote.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;}
+</style>
+<hr>
+<h2 style="font-size:250%;"align="center">My Experience<</h2>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img src="experience.jpg"width="50%" height="50%">
+<CENTER>
+<h2>The Journey of a thousand miles begins with one step."</h2>
+<p>"Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make hast to be kind."</p>
+</CENTER>
+<hr>
+<CENTER>
+<footer>
+"Life is journey not a destination"
+</footer>
+</CENTER>
+</body>

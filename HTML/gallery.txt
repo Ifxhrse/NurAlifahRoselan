@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head><title>experience</title>
+<meta charset="utf-8">
+<meta name="viewport" content="Website">
+</head>
+<body>
+<header>
+<a href="index.html">
+    <centre>
+<img src="lovemyself.png"alt="Hello it ME"title="ALIFAH ROSELAN" width="500">
+    </center>
+</a>
+</header>
+<hr>
+<nav>
+    <center>
+<table cellspacing="6" cellpadding="6">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="biodata.html">Biodata</a></td>
+<td><a href="experience.html">Experience</a></td>
+<td><a href="family.html">Family</a></td>
+<td><a href="gallery.html">Gallery</a></td>
+</tr>
+</nav>
+</table>
+</center>
+<style>
+body {
+      background-image: url('quote.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;}
+    </style>
+    <hr>
+<CENTER>
+    <h1 style="color:rgba(0, 23, 128, 0.952);">CAT IS A CUTE ANIMAL</h1>
+<p style="color:MAROON;">When I play with all my cats, I can realive my stress and all my worriesness gone in a minute. When I had problem that I can solve I usually hugs my cats so that I can calm down first and slowly try to solve the problem.</p>
+
+<h2>MY LOVELY COMOT & HITAM!</h2>
+	<div class="row">
+ 	<div class="column">
+    	  <div class="content">
+	    <img src="gallery.jpg"alt="disaster" style="width:43%"><br>
+	    <h1>“COMOT & HITAM</h1>
+	  <center>
+	<video width="580" controls>
+	 <source src="video.mp4" type="video/mp4">
+</video> 
+</center>
+<p style="color:rgba(0, 23, 128, 0.952);font-size:120%;">"What greater gift than the love of a cat."</p>
+<center>
+<audio controls>
+	<source src="music.mp3"type="audio/mp3">
+	  </audio>
+</center>
+<hr>
+<footer>
+   <h3 style="font-size:100%;">“Cats are a mysterious kind of folks."
+</footer>
+</nav>
+</body>

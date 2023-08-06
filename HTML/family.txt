@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head><title>experience</title>
+<meta charset="utf-8">
+<meta name="viewport" content="Website">
+</head>
+<body>
+<header>
+<a href="index.html">	
+    <centre>
+<img src="lovemyself.png"alt="Hello it ME"title="ALIFAH ROSELAN" width="500">
+</center>
+</a>
+</header>
+<hr>
+<nav>
+    <center>
+<table cellspacing="6" cellpadding="6">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="biodata.html">Biodata</a></td>
+<td><a href="experience.html">Experience</a></td>
+<td><a href="family.html">Family</a></td>
+<td><a href="gallery.html">Gallery</a></td>
+</tr>
+</nav>
+</table>
+</center>
+<style>
+body {
+      background-image: url('quote.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;}
+    </style>
+    <hr>
+    <h2 style="font-size:250%;font-style: italic;"align="center">Roselan's Legacy</h2>
+    <h3 align="center">
+    <img src=family.jpg" height="450px" width="400px">
+    <br /><br />
+
+<ol>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">ROSELAN's LEGACY"</p>
+    <centre>
+    <p style>="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Father:Roselan Mat Adam</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Mother:Yuslin Yusof</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Me:Nur Alifah</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Sister:Nur Alisha</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Sister:Nur Alia</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Brother:Muhammad Allam Afiq</p>
+    <p style="color:rgba(0, 23, 128, 0.952);font-size:120%;font-style: italic;">Brother:Muhammad Alim Amjad</p>
+    </center>
+<hr>
+    <footer>
+        <center>
+            <p style="color:rgba(0, 23, 128, 0.952);font-size:105%;">"In time of test, family is best."</p> </center>
+    </footer>
+</body>
+</html>

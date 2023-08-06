@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head><title>My Personal Website</title>
+<meta charset="utf-8">
+<meta name="viewport" content="Website">
+</head>
+<body>
+<header>
+<a href="index.html">	
+  <center>
+<img src="lovemyself.png"alt="Hello it ME"title="ALIFAH ROSELAN" width="500">
+  </center>
+</a>
+</header>
+<hr>
+<nav>
+<center>
+<table cellspacing="6" cellpadding="6">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="biodata.html">Biodata</a></td>
+<td><a href="experience.html">Experience</a></td>
+<td><a href="family.html">Family</a></td>
+<td><a href="gallery.html">Gallery</a></td>
+</tr>
+</table>
+  </center>
+<style>
+body {
+  background-image: url('quote.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;}
+</style>
+</nav>
+<hr>
+<CENTER>
+<h2 style="font-size:350%;">안녕 나 여기 알리파</h2>
+<p style="font-size:150%;">Stand up for who you are. Respect your Self and ignite the divine sparks in you"</p>
+</CENTER>
+<CENTER>
+<img src="me.jpg"width="50%"height="50%">
+</CENTER>
+
+<CENTER>
+<ul>
+<p style="font-size:120%;">Only love today.Be kind to yourslef." - Rachel Macy Stafford. <br>This life is mine alone. So I have stopped asking people for directions to places they've never been"<br>Love Ourself First<br>
+-sincerly from myself to myself-</li>
+</ul>
+</CENTER>
+<hr>
+<footer>
+  <CENTER>
+"Be healthy and take care of yourslef, but be happy with the beautiful things that make you, you."
+  </CENTER>
+</footer>
+</body>
